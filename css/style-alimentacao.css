@@ -1,0 +1,30 @@
+/*Página da alimentação*/
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
+
+ul, li {
+list-style: none;
+}
+
+.carousel-caption {
+  position: absolute;
+  bottom: 20px; /* Aumenta a distância do texto da parte inferior */
+  left: 15%; /* Alinha o texto à esquerda */
+  right: 15%; /* Alinha o texto à direita */
+  text-align: center; /* Centraliza o texto */
+  color: white; /* Cor do texto */
+  background: rgba(0, 0, 0, 0.5); /* Fundo semi-transparente para melhorar a legibilidade */
+  padding: 10px; /* Adiciona um pouco de espaço ao redor do texto */
+}
