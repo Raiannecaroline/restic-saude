@@ -44,10 +44,19 @@ Este projeto consiste em um site voltado para a promoção da saúde e bem-estar
 - Utilização de carrosséis para exibir imagens e informações de forma interativa.
 - Navegação intuitiva entre seções e páginas.
 
-## Tecnologias Utilizadas
-- HTML
-- CSS (Bootstrap para estilização)
-- JavaScript (para funcionalidades dinâmicas)
+## Tecnologias 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://getbootstrap.com/">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+</a>
 
 ## Conclusão
 O site é projetado para ser uma ferramenta informativa e acessível, promovendo hábitos saudáveis e a conscientização sobre a saúde e bem-estar.
